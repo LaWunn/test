@@ -1,2 +1,2 @@
 # test
-![ait text](img1.png)
+![ait text](img1.PNG)
